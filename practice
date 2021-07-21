@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main ()
+{
+printf("myeongjoon is babo");
+
+return 0;
+}
